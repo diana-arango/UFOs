@@ -1,7 +1,7 @@
-# UFO Sightings
+# UFOs
 JavaScript
 
-
+# UFOs sightings
 The purpose of this analysis is to help Dana to create filters on her website that allow her website to search for multiple criteria at the same time. Consequently, adjusting the code created on the index.html and app.js files from module 11 was necessary to create, populate and dynamically filter Dana’s table using JavaSacript and HTML 
 
 ## How to perform a search
