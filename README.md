@@ -8,9 +8,9 @@ The purpose of this analysis is to help Dana to create filters on her website th
 
 To create one of multiple filters in a web, both app.js and index.html required of having a variable created that keep track of the filters as an object, create a function to update the filters, create variables for the elements that have been changed, and the ID’s that were ultimately changed. Also, it is important to create if statements that help the code recognizes entry users otherwise, ask the code to clear the filters. Finally, but not last, loop through all the filters and keep any data that matches the filter values, rebuild the table using the filtered data and attach the events that record every change on each filter to build the table once again when the page loads
  
-In the index file the body of the web was also adjusted to recognize the filters implemented: search not only by date but also by city, state, country, and shape as follows. Every label and input were recorded with the search desired
+In the index file the body of the web was also adjusted to recognize the filters implemented: search not only by date but also by city, state, country, and shape. Every label and input were recorded with the search desired
 
-The result was having the ability to search multiple criteria as shown below 
+
 
 
 ## Summary 
